@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.shape.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="226.0" prefWidth="484.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fpts.controllers.SetIntervalController">
+   <children>
+      <TextField fx:id="timeInput" layoutX="168.0" layoutY="101.0" />
+      <Label layoutX="89.0" layoutY="50.0" text="How often will you like your portfolio updated ?">
+         <font>
+            <Font size="15.0" />
+         </font>
+      </Label>
+      <Button fx:id="saveBttn" layoutX="216.0" layoutY="147.0" mnemonicParsing="false" onAction="#setTimeInterval" text="Save" />
+      <Label layoutX="327.0" layoutY="101.0" prefHeight="25.0" prefWidth="43.0" text="Minutes" />
+   </children>
+</Pane>

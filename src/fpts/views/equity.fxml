@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<Tab fx:id="equityTab" closable="false" text="User Equities" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fpts.controllers.UserEquityController">
+   <content>
+      <AnchorPane>
+         <children>
+                <TableView fx:id="userEquityTable" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="250.0" AnchorPane.topAnchor="0.0">
+                    <columns>
+                        <TableColumn fx:id="userEquityName" prefWidth="103.0" text="Name" />
+                        <TableColumn fx:id="userTickerCol" prefWidth="89.0" text="Ticker Symbol" />
+                        <TableColumn fx:id="userEquityValue" prefWidth="93.0" text="Value" />
+                        <TableColumn fx:id="userEquityMarketIndex" prefWidth="109.0" text="Market Index" />
+                    </columns>
+                </TableView>
+            <Pane layoutX="392.0" layoutY="24.0" maxWidth="250.0" minWidth="250.0" prefWidth="250.0" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+               <children>
+                      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="75.0" layoutY="8.0" text="Ticker Symbol" textAlignment="CENTER" />
+                      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="75.0" layoutY="69.0" text="Index/Sector" />
+                      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="75.0" layoutY="142.0" text="Equity Name" />
+                      <TextField fx:id="userTickerField" layoutX="35.0" layoutY="28.0" prefWidth="175" />
+                      <TextField fx:id="userIndexField" layoutX="31.0" layoutY="90.0" prefWidth="175" />
+                      <TextField fx:id="userEquityField" layoutX="35.0" layoutY="165.0" prefWidth="175" />
+                      <Button fx:id="selectUserEquity" layoutX="70.0" layoutY="286.0" mnemonicParsing="false" onAction="#selectUserEquities" text="Choose Equity" />
+                      <Button fx:id="removeSelectedEquity" layoutX="62.0" layoutY="250.0" mnemonicParsing="false" onAction="#removeSelectedEquity" text="Remove Selected" />
+               </children>
+            </Pane>
+         </children>
+      </AnchorPane>
+   </content>
+</Tab>

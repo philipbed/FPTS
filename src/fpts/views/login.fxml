@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import java.util.*?>
+
+<?import javafx.scene.text.Text?>
+<Pane  fx:controller="fpts.controllers.LoginController" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+    <children>
+        <TextField fx:id="username" layoutX="226.0" layoutY="108.0" />
+        <PasswordField fx:id="password" layoutX="226.0" layoutY="194.0" />
+        <Button fx:id="myBt" layoutX="167.0" layoutY="329.0" mnemonicParsing="false" text="Login" onAction="#login"/>
+        <Button layoutX="375.0" layoutY="329.0" mnemonicParsing="false" text="Sign Up" onAction="#handleSignUpAction" />
+        <Label layoutX="154.0" layoutY="108.0" prefHeight="25.0" prefWidth="58.0" text="Username" />
+        <Label layoutX="158.0" layoutY="198.0" text="Password" />
+        <Text fx:id="welcomeText" layoutX="217.0" layoutY="48.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to FPTS" textAlignment="CENTER" wrappingWidth="165.13671875">
+            <font>
+                <Font size="20.0" />
+            </font>
+        </Text>
+    </children>
+</Pane>

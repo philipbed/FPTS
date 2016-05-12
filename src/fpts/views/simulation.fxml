@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<Tab fx:id="simulationTab" closable="false" text="Simulation" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fpts.controllers.SimulationController">
+    <content>
+        <HBox maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+            <children>
+                <Pane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefWidth="275.0">
+                    <children>
+                        <MenuButton fx:id="timeInterval" layoutX="113.0" layoutY="127.0" mnemonicParsing="false" text="(Select Interval)">
+                            <items>
+                                <MenuItem fx:id="dayItem" mnemonicParsing="false" onAction="#setDayItemHandler" text="Day" />
+                                <MenuItem fx:id="monthItem" mnemonicParsing="false" onAction="#setMonthItemHandler" text="Month" />
+                                <MenuItem fx:id="yearItem" mnemonicParsing="false" onAction="#setYearItemHandler" text="Year" />
+                            </items>
+                        </MenuButton>
+                        <TextField fx:id="numSteps" layoutX="135.0" layoutY="173.0" prefHeight="25.0" prefWidth="98.0" />
+                        <TextField fx:id="percentChange" layoutX="98.0" layoutY="211.0" prefHeight="27.0" prefWidth="58.0" />
+                        <Button fx:id="RunAll" layoutX="11.0" layoutY="252.0" mnemonicParsing="false" onAction="#simulateAll" text="Run All" />
+                        <Button fx:id="RunStep" layoutX="11.0" layoutY="284.0" mnemonicParsing="false" onAction="#simulateStepByStep" text="Run By Step" />
+                        <Text layoutX="158.0" layoutY="229.0" strokeType="OUTSIDE" strokeWidth="0.0" text="\%" />
+                        <Label layoutX="12.0" layoutY="14.0" text="Select a market simulations:" />
+                        <Label layoutX="13.0" layoutY="132.0" text="Time Interval:" />
+                        <Label layoutX="13.0" layoutY="178.0" text="Number of steps:" />
+                        <Label layoutX="12.0" layoutY="216.0" text="Percentage:" />
+                        <RadioButton fx:id="BearStrat" layoutX="24.0" layoutY="35.0" mnemonicParsing="false" onAction="#setPercentOn" text="Bear Market">
+                            <toggleGroup>
+                                <ToggleGroup fx:id="Strategies" />
+                            </toggleGroup>
+                        </RadioButton>
+                        <RadioButton fx:id="BullStrat" layoutX="24.0" layoutY="63.0" mnemonicParsing="false" onAction="#setPercentOn" text="Bull Market" toggleGroup="$Strategies" />
+                        <RadioButton fx:id="NoGrowthStrat" layoutX="24.0" layoutY="93.0" mnemonicParsing="false" onAction="#setPercentOff" text="No-Growth Market" toggleGroup="$Strategies" />
+                        <Button fx:id="RemoveLast" layoutX="144.0" layoutY="252.0" mnemonicParsing="false" onAction="#removeLastSimulation" text="Remove Last" />
+                        <Button fx:id="RemoveAll" layoutX="155.0" layoutY="284.0" mnemonicParsing="false" onAction="#removeAllSimulations" text="Remove All" />
+                        <Button fx:id="PreviousSim" layoutX="71.0" layoutY="334.0" mnemonicParsing="false" onAction="#previousSimulation" text="&lt;Prev" />
+                        <Button fx:id="NextSim" layoutX="130.0" layoutY="334.0" mnemonicParsing="false" onAction="#nextSimulation" text="Next&gt;" />
+                        <Button fx:id="LastSim" layoutX="190.0" layoutY="334.0" mnemonicParsing="false" onAction="#lastSimulation" text="Last&gt;&gt;" />
+                        <Button fx:id="FirstSim" layoutX="5.0" layoutY="334.0" mnemonicParsing="false" onAction="#firstSimulation" text="&lt;&lt;First" />
+                        <Text layoutX="7.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Simulation:" />
+                        <Text layoutX="141.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Step:" />
+                        <Text fx:id="CurrSimulation" layoutX="82.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                        <Text fx:id="CurrStep" layoutX="179.0" layoutY="385.0" strokeType="OUTSIDE" strokeWidth="0.0" />
+                        <Text fx:id="stratFlag" fill="RED" layoutX="125.0" layoutY="76.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select a market simulation" underline="true" visible="false">
+                            <font>
+                                <Font size="9.0" />
+                            </font>
+                        </Text>
+                        <Text fx:id="intervalFlag" fill="RED" layoutX="135.0" layoutY="121.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Select a time interval" underline="true" visible="false">
+                            <font>
+                                <Font size="9.0" />
+                            </font>
+                        </Text>
+                        <Text fx:id="stepFlag" fill="RED" layoutX="131.0" layoutY="168.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Number of Steps (1-100)" visible="false">
+                            <font>
+                                <Font size="9.0" />
+                            </font>
+                        </Text>
+                        <Text fx:id="percentFlag" fill="RED" layoutX="169.0" layoutY="228.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Percentage (0.0-1000.0)" visible="false">
+                            <font>
+                                <Font size="9.0" />
+                            </font>
+                        </Text>
+                    </children>
+                </Pane>
+                <Separator orientation="VERTICAL" prefWidth="1.0" />
+                <Pane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" HBox.hgrow="ALWAYS">
+                    <children>
+                        <LineChart fx:id="SimulationChart" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308">
+                            <xAxis>
+                                <NumberAxis label="Days" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" />
+                            </xAxis>
+                            <yAxis>
+                                <NumberAxis label="Value" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" side="LEFT" />
+                            </yAxis>
+                        </LineChart>
+                    </children>
+                </Pane>
+            </children>
+        </HBox>
+    </content>
+</Tab>
+

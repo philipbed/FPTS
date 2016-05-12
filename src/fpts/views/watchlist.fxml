@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+
+<Tab fx:id="watchTab" closable="false" text="Watchlist" xmlns="http://javafx.com/javafx/8.0.65" xmlns:fx="http://javafx.com/fxml/1" fx:controller="fpts.controllers.WatchlistController">
+<content>
+    <AnchorPane prefHeight="600.0" prefWidth="600.0">
+        <children>
+            <Pane layoutY="176.0" maxWidth="300.0" minWidth="272.0" prefHeight="349.0" prefWidth="272.0" AnchorPane.bottomAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+                <children>
+                    <Button fx:id="browseEquities" layoutX="90.0" layoutY="91.0" mnemonicParsing="false" text="Browse Equities" onAction="#changeTabChooseWatchedEquity" textAlignment="CENTER" />
+                    <TextField fx:id="addWatchField" layoutX="64.0" layoutY="52.0" />
+                    <Separator layoutX="10.0" layoutY="319.0" prefHeight="4.0" prefWidth="243.0" />
+                    <Separator layoutX="10.0" layoutY="129.0" prefHeight="4.0" prefWidth="243.0" /><Button fx:id="removeWatchEquity" layoutX="83.0" layoutY="329.0" onAction="#removeWatchedEquity" mnemonicParsing="false" text="Remove Selected" />
+                    <TextField fx:id="minField" layoutX="30.0" layoutY="196.0" prefHeight="26.0" prefWidth="100.0" />
+                    <TextField fx:id="maxField" layoutX="169.0" layoutY="196.0" prefHeight="26.0" prefWidth="100.0" />
+                    <Label layoutX="68.0" layoutY="168.0" text="Min" />
+                    <Label layoutX="206.0" layoutY="168.0" text="Max" />
+                    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="123.0" layoutY="143.0" text="Triggers" textAlignment="CENTER" />
+                    <Label alignment="CENTER" contentDisplay="CENTER" layoutX="108.0" layoutY="22.0" style="-fx-: red;" text="Add a Equity" textAlignment="CENTER" />
+                    <RadioButton fx:id="toggleOn" layoutX="166.0" layoutY="246.0" mnemonicParsing="false" text="On" />
+                    <RadioButton fx:id="toggleOff" layoutX="93.0" layoutY="246.0" mnemonicParsing="false" text="Off" />
+                    <Button fx:id="addWatchEquity" alignment="CENTER" contentDisplay="CENTER" layoutX="90.0" layoutY="287.0" mnemonicParsing="false" onAction="#addToWatchlist" text="Add to Watchlist" textAlignment="CENTER" />
+                </children>
+            </Pane>
+            <TableView fx:id="watchEquityTable" prefHeight="349.0" prefWidth="378.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="272.0" AnchorPane.topAnchor="0.0">
+                <columns>
+                    <TableColumn fx:id="watchEquityName" prefWidth="103.0" text="Name" />
+                    <TableColumn fx:id="watchTickerCol" prefWidth="89.0" text="Ticker Symbol" />
+                    <TableColumn fx:id="watchEquityValue" prefWidth="84.0" text="Value" />
+                    <TableColumn fx:id="equityStatus" prefWidth="103.0" text="Status" />
+                </columns>
+            </TableView>
+        </children>
+    </AnchorPane>
+</content>
+</Tab>

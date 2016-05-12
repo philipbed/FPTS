@@ -1,0 +1,828 @@
+FOXA,"Twenty-First Century Fox, Inc."
+FOX,"Twenty-First Century Fox, Inc."
+ATVI,"Activision Blizzard, Inc"
+ADBE,"Adobe Systems Incorporated"
+AKAM,"Akamai Technologies, Inc."
+ALXN,"Alexion Pharmaceuticals, Inc."
+ALTR,"Altera Corporation"
+AMZN,"Amazon.com, Inc."
+AAL,"American Airlines Group, Inc."
+AMGN,"Amgen Inc."
+ADI,"Analog Devices, Inc."
+AAPL,"Apple Inc.",DOW
+AMAT,"Applied Materials, Inc."
+ADSK,"Autodesk, Inc."
+ADP,"Automatic Data Processing, Inc."
+AVGO,"Avago Technologies Limited"
+BIDU,"Baidu, Inc."
+BBBY,"Bed Bath & Beyond Inc."
+BIIB,"Biogen Inc."
+BMRN,"BioMarin Pharmaceutical Inc."
+BRCM,"Broadcom Corporation"
+CHRW,"C.H. Robinson Worldwide, Inc."
+CA,"CA Inc."
+CELG,"Celgene Corporation"
+CERN,"Cerner Corporation"
+CHTR,"Charter Communications, Inc."
+CHKP,"Check Point Software Technologies Ltd."
+CSCO,"Cisco Systems, Inc.",DOW
+CTXS,"Citrix Systems, Inc."
+CTSH,"Cognizant Technology Solutions Corporation"
+CMCSK,"Comcast Corporation"
+CMCSA,"Comcast Corporation"
+COST,"Costco Wholesale Corporation"
+DISCA,"Discovery Communications, Inc."
+DISCK,"Discovery Communications, Inc."
+DISH,"DISH Network Corporation"
+DLTR,"Dollar Tree, Inc."
+EBAY,"eBay Inc."
+EA,"Electronic Arts Inc."
+EXPD,"Expeditors International of Washington, Inc."
+ESRX,"Express Scripts Holding Company"
+FB,"Facebook, Inc."
+FAST,"Fastenal Company"
+FISV,"Fiserv, Inc."
+GRMN,"Garmin Ltd."
+GILD,"Gilead Sciences, Inc."
+GOOGL,"Google Inc."
+GOOG,"Google Inc."
+HSIC,"Henry Schein, Inc."
+ILMN,"Illumina, Inc."
+INTC,"Intel Corporation",DOW
+INTU,"Intuit Inc."
+ISRG,"Intuitive Surgical, Inc."
+JD,"JD.com, Inc."
+KLAC,"KLA-Tencor Corporation"
+GMCR,"Keurig Green Mountain, Inc."
+KHC,"The Kraft Heinz Company"
+LRCX,"Lam Research Corporation"
+LBTYA,"Liberty Global plc"
+LBTYK,"Liberty Global plc"
+QVCA,"Liberty Interactive Corporation"
+LILA,"Liberty Global plc"
+LMCK,"Liberty Media Corporation"
+LMCA,"Liberty Media Corporation"
+LVNTA,"Liberty Interactive Corporation"
+LLTC,"Linear Technology Corporation"
+MAR,"Marriott International"
+MAT,"Mattel, Inc."
+MU,"Micron Technology, Inc."
+MSFT,"Microsoft Corporation",DOW
+MDLZ,"Mondelez International, Inc."
+MNST,"Monster Beverage Corporation"
+MYL,"Mylan N.V."
+NTAP,"NetApp, Inc."
+NFLX,"Netflix, Inc."
+NVDA,"NVIDIA Corporation"
+NXPI,"NXP Semiconductors N.V."
+ORLY,"O&#39;Reilly Automotive, Inc."
+PCAR,"PACCAR Inc."
+PAYX,"Paychex, Inc."
+QCOM,"QUALCOMM Incorporated"
+REGN,"Regeneron Pharmaceuticals, Inc."
+ROST,"Ross Stores, Inc."
+SNDK,"SanDisk Corporation"
+SBAC,"SBA Communications Corporation"
+STX,"Seagate Technology."
+SIRI,"Sirius XM Holdings Inc."
+SWKS,"Skyworks Solutions, Inc."
+SPLS,"Staples, Inc."
+SBUX,"Starbucks Corporation"
+SRCL,"Stericycle, Inc."
+SYMC,"Symantec Corporation"
+TSLA,"Tesla Motors, Inc."
+TXN,"Texas Instruments Incorporated"
+PCLN,"The Priceline Group Inc. "
+TSCO,"Tractor Supply Company"
+TRIP,"TripAdvisor, Inc."
+VRSK,"Verisk Analytics, Inc."
+VRTX,"Vertex Pharmaceuticals Incorporated"
+VIAB,"Viacom Inc."
+VIP,"VimpelCom Ltd."
+VOD,"Vodafone Group Plc"
+WBA,"Walgreens Boots Alliance, Inc."
+WDC,"Western Digital Corporation"
+WFM,"Whole Foods Market, Inc."
+WYNN,"Wynn Resorts, Limited"
+XLNX,"Xilinx, Inc."
+YHOO,"Yahoo! Inc."
+BA,"Boeing Company (The)",DOW
+CAT,"Caterpillar, Inc.",DOW
+CVX,"Chevron Corporation",DOW
+KO,"Coca-Cola Company (The)",DOW
+DD,"E.I. du Pont de Nemours and Company",DOW
+XOM,"Exxon Mobil Corporation",DOW
+GE,"General Electric Company",DOW
+HD,"Home Depot, Inc. (The)",DOW
+MCD,"McDonald&#39;s Corporation",DOW
+NKE,"Nike, Inc.",DOW
+PG,"Procter & Gamble Company (The)",DOW
+UTX,"United Technologies Corporation",DOW
+VZ,"Verizon Communications Inc.",DOW
+V,"Verisk Analytics, Inc."
+WMT,"Wal-Mart Stores, Inc.",DOW
+DIS,"Discovery Communications, Inc."
+CLGX,"CoreLogic, Inc.",TECHNOLOGY
+GLOB,"Globant S.A.",TECHNOLOGY
+RLGY,"Realogy Holdings Corp.",FINANCE
+CBR,"Ciber, Inc.",TECHNOLOGY
+NNI,"Nelnet, Inc.",FINANCE
+PFS,"Provident Financial Services, Inc",FINANCE
+LUV,"Southwest Airlines Company",TRANSPORTATION
+ARL,"American Realty Investors, Inc.",FINANCE
+WTM,"White Mountains Insurance Group, Ltd.",FINANCE
+HRC,"Hill-Rom Holdings Inc",HEALTH CARE
+SFN,"Stifel Financial Corporation",FINANCE
+VLRS,"Controladora Vuela Compania de Aviacion, S.A.B. de C.V.",TRANSPORTATION
+MN,"Monster Beverage Corporation"
+EVTC,"Evertec, Inc.",TECHNOLOGY
+LCI,"Lannett Co Inc",HEALTH CARE
+EJ,"E-House (China) Holdings Limited",FINANCE
+STL,"Sterling Bancorp",FINANCE
+CSX,"CSX Corporation",TRANSPORTATION
+FCB,"FCB Financial Holdings, Inc.",FINANCE
+THG,"The Hanover Insurance Group, Inc.",FINANCE
+FVE,"Five Star Quality Care, Inc.",HEALTH CARE
+MX,"MagnaChip Semiconductor Corporation",TECHNOLOGY
+FSB,"Franklin Financial Network, Inc.",FINANCE
+JLL,"Jones Lang LaSalle Incorporated",FINANCE
+LLL,"L-3 Communications Holdings, Inc.",TECHNOLOGY
+RXN,"Rexnord Corporation",TECHNOLOGY
+CACI,"CACI International, Inc.",TECHNOLOGY
+ALEX,"Alexander & Baldwin Holdings, Inc.",FINANCE
+RHT,"Red Hat, Inc.",TECHNOLOGY
+OPK,"Opko Health Inc",HEALTH CARE
+ABT,"Abbott Laboratories",HEALTH CARE
+CB,"Ciber, Inc.",TECHNOLOGY
+ASGN,"On Assignment, Inc.",TECHNOLOGY
+BRS,"Bristow Group Inc",TRANSPORTATION
+PBH,"Prestige Brand Holdings, Inc.",HEALTH CARE
+ALR,"Alere Inc.",HEALTH CARE
+SAP,"SAP SE",TECHNOLOGY
+MDT,"Medtronic plc",HEALTH CARE
+KEY,"KeyCorp",FINANCE
+PFG,"Principal Financial Group Inc",FINANCE
+ATE,"Advantest Corporation (Kabushiki Kaisha Advantest) ADS",TECHNOLOGY
+MD,"Mondelez International, Inc."
+JMPC,"JMP Group LLC",FINANCE
+BAC,"Bank of America Corporation",FINANCE
+ASC,"Ardmore Shipping Corporation",TRANSPORTATION
+SCHW,"The Charles Schwab Corporation",FINANCE
+MSA,"MSA Safety Incorporporated",HEALTH CARE
+AMG,"Amgen Inc."
+AHS,"AMN Healthcare Services Inc",TECHNOLOGY
+BSMX,"Grupo Financiero Santander Mexico S.A. B. de C.V.",FINANCE
+CM,"Comcast Corporation"
+WF,"Whole Foods Market, Inc."
+GBL,"Gamco Investors, Inc.",FINANCE
+SFUN,"SouFun Holdings Limited",TECHNOLOGY
+WAL,"Western Alliance Bancorporation",FINANCE
+SHOP,"Shopify Inc.",TECHNOLOGY
+MNK,"Mallinckrodt plc",HEALTH CARE
+PBYI,"Puma Biotechnology Inc",HEALTH CARE
+PB,"Prestige Brand Holdings, Inc.",HEALTH CARE
+IMPR,"Imprivata, Inc.",TECHNOLOGY
+RLI,"RLI Corp.",FINANCE
+TRUP,"Trupanion, Inc.",HEALTH CARE
+UE,"Urban Edge Properties",FINANCE
+MXL,"MaxLinear, Inc",TECHNOLOGY
+AVAL,"Grupo Aval Acciones y Valores S.A.",FINANCE
+XL,"Xilinx, Inc."
+AFA,"American Financial Group, Inc.",FINANCE
+AGN,"Allergan plc.",HEALTH CARE
+CUBI,"Customers Bancorp, Inc",FINANCE
+SMI,"Semiconductor  Manufacturing International Corporation",TECHNOLOGY
+GEN,"Genesis Healthcare, Inc.",HEALTH CARE
+SQNS,"Sequans Communications S.A.",TECHNOLOGY
+AEB,"Aegon NV",FINANCE
+RKUS,"Ruckus Wireless, Inc.",TECHNOLOGY
+CVB,"Lehman ABS Corporation",FINANCE
+AB,"Abbott Laboratories",HEALTH CARE
+GSK,"GlaxoSmithKline PLC",HEALTH CARE
+PFX,"Phoenix Companies, Inc. (The)",FINANCE
+GJS,"SYNTHETIC FIXED INCOME SECURITIES INC",FINANCE
+SSWN,"Seaspan Corporation",TRANSPORTATION
+MHNA,"Maiden Holdings, Ltd.",FINANCE
+IMPV,"Imperva, Inc.",TECHNOLOGY
+STV,"China Digital TV Holding Co., Ltd.",TECHNOLOGY
+MGR,"Affiliated Managers Group, Inc.",FINANCE
+INXN,"InterXion Holding N.V.",TECHNOLOGY
+CRL,"Charles River Laboratories International, Inc.",HEALTH CARE
+L,"Lam Research Corporation"
+WDR,"Waddell & Reed Financial, Inc.",FINANCE
+ATEN,"A10 Networks, Inc.",TECHNOLOGY
+MMM,"3M Company",HEALTH CARE,DOW
+IMS,"IMS Health Holdings, Inc.",TECHNOLOGY
+FDS,"FactSet Research Systems Inc.",TECHNOLOGY
+DAL,"Delta Air Lines, Inc.",TRANSPORTATION
+RAD,"Rite Aid Corporation",HEALTH CARE
+ANTX,"Anthem, Inc.",HEALTH CARE
+WUBA,"58.com Inc.",TECHNOLOGY
+GHL,"Greenhill & Co., Inc.",FINANCE
+EXAR,"Exar Corporation",TECHNOLOGY
+AED,"Aegon NV",FINANCE
+CUDA,"Barracuda Networks, Inc.",TECHNOLOGY
+BSX,"Boston Scientific Corporation",HEALTH CARE
+RSE,"Rouse Properties, Inc.",FINANCE
+BX,"The Blackstone Group L.P.",FINANCE
+VMEM,"Violin Memory, Inc.",TECHNOLOGY
+RRTS,"Roadrunner Transportation Systems, Inc",TRANSPORTATION
+RDY,"Dr. Reddy&#39;s Laboratories Ltd",HEALTH CARE
+CFR,"Cullen/Frost Bankers, Inc.",FINANCE
+ZTS,"Zoetis Inc.",HEALTH CARE
+LXFT,"Luxoft Holding, Inc.",TECHNOLOGY
+NM,"Navios Maritime Holdings Inc.",TRANSPORTATION
+FRO,"Frontline Ltd.",TRANSPORTATION
+HUBS,"HubSpot, Inc.",TECHNOLOGY
+DGX,"Quest Diagnostics Incorporated",HEALTH CARE
+FIT,"Fitbit, Inc.",TECHNOLOGY
+DSX,"Diana Shipping inc.",TRANSPORTATION
+ENH,"Endurance Specialty Holdings Ltd",FINANCE
+BHE,"Benchmark Electronics, Inc.",TECHNOLOGY
+NMBL,"Nimble Storage, Inc.",TECHNOLOGY
+JBT,"John Bean Technologies Corporation",TECHNOLOGY
+KND,"Kindred Healthcare, Inc.",HEALTH CARE
+VR,"Verisk Analytics, Inc."
+AYR,"Aircastle Limited",TECHNOLOGY
+PMC,"Pharmerica Corporation",HEALTH CARE
+LOCK,"LifeLock, Inc.",TECHNOLOGY
+HSBC,"HSBC Holdings plc",FINANCE
+MBI,"MBIA, Inc.",FINANCE
+URI,"United Rentals, Inc.",TECHNOLOGY
+FCF,"First Commonwealth Financial Corporation",FINANCE
+CPA,"Copa Holdings, S.A.",TRANSPORTATION
+STJ,"St. Jude Medical, Inc.",HEALTH CARE
+ABBV,"AbbVie Inc.",HEALTH CARE
+DMD,"Demand Media Inc.",TECHNOLOGY
+CHE,"Chemed Corp.",HEALTH CARE
+BBX,"BBX Capital Corporation",FINANCE
+DATA,"Tableau Software, Inc.",TECHNOLOGY
+AON,"Aon plc",FINANCE
+TMK,"Torchmark Corporation",FINANCE
+ALL,"Allstate Corporation (The)",FINANCE
+CPF,"CPB Inc.",FINANCE
+DFS,"Discover Financial Services",FINANCE
+LXK,"Lexmark International, Inc.",TECHNOLOGY
+PRO,"PROS Holdings, Inc.",TECHNOLOGY
+KCG,"KCG Holdings, Inc.",FINANCE
+ALK,"Alaska Air Group, Inc.",TRANSPORTATION
+HSEB,"HSBC Holdings plc",FINANCE
+BXS,"BancorpSouth, Inc.",FINANCE
+TRU,"Trupanion, Inc.",HEALTH CARE
+IND,"ING Group, N.V.",FINANCE
+BEN,"Franklin Resources, Inc.",FINANCE
+ABM,"ABM Industries Incorporated",FINANCE
+KFI,"KKR Financial Holdings LLC",FINANCE
+PYT,"PPlus Trust",FINANCE
+INZ,"ING Group, N.V.",FINANCE
+HPP,"Hudson Pacific Properties, Inc.",FINANCE
+MSL,"MidSouth Bancorp",FINANCE
+NQ,"NQ Mobile Inc.",TECHNOLOGY
+PAC,"Grupo Aeroportuario Del Pacifico, S.A. de C.V.",TRANSPORTATION
+AVG,"Avago Technologies Limited"
+HCI,"HCI Group, Inc.",FINANCE
+GSJ,"Goldman Sachs Group, Inc. (The)",FINANCE
+LYG,"Lloyds Banking Group Plc",FINANCE
+EPAM,"EPAM Systems, Inc.",TECHNOLOGY
+TPRE,"Third Point Reinsurance Ltd.",FINANCE
+ROL,"Rollins, Inc.",FINANCE
+YOKU,"Youku Tudou Inc.",TECHNOLOGY
+MSI,"Motorola Solutions, Inc.",TECHNOLOGY
+ALLY,"Ally Financial Inc.",FINANCE
+DOV,"Dover Corporation",TECHNOLOGY
+BOX,"Box, Inc.",TECHNOLOGY
+AFGE,"American Financial Group, Inc.",FINANCE
+GKOS,"Glaukos Corporation",HEALTH CARE
+LC,"Lannett Co Inc",HEALTH CARE
+DNB,"Dun & Bradstreet Corporation (The)",FINANCE
+NVTA,"Invitae Corporation",HEALTH CARE
+IBM,"International Business Machines Corporation",TECHNOLOGY,DOW
+ABC,"AmerisourceBergen Corporation (Holding Co)",HEALTH CARE
+MBLY,"Mobileye N.V.",TECHNOLOGY
+LNC,"Lincoln National Corporation",FINANCE
+SLF,"Sun Life Financial Inc.",FINANCE
+HLF,"Herbalife LTD.",HEALTH CARE
+TWTR,"Twitter, Inc.",TECHNOLOGY
+CIA,"Citizens, Inc.",FINANCE
+BLOX,"Infoblox Inc.",TECHNOLOGY
+CNI,"Canadian National Railway Company",TRANSPORTATION
+EVRI,"Everi Holdings Inc.",FINANCE
+HLS,"HealthSouth Corporation",HEALTH CARE
+ORI,"Old Republic International Corporation",FINANCE
+COF,"Capital One Financial Corporation",FINANCE
+AAN,"Aaron&#39;s,  Inc.",TECHNOLOGY
+SXI,"Standex International Corporation",TECHNOLOGY
+BBT,"BB&T Corporation",FINANCE
+USB,"U.S. Bancorp",FINANCE
+SNV,"Synovus Financial Corp.",FINANCE
+VOYA,"Voya Financial, Inc.",FINANCE
+GDDY,"GoDaddy Inc.",TECHNOLOGY
+EIG,"Employers Holdings Inc",FINANCE
+IX,"Orix Corp Ads",FINANCE
+EMC,"EMC Corporation",TECHNOLOGY
+MTB,"M&T Bank Corporation",FINANCE
+SYK,"Stryker Corporation",HEALTH CARE
+AF,"American Financial Group, Inc.",FINANCE
+GNK,"Genco Shipping & Trading Limited Warrants Expiring 12/31/2021 ",TRANSPORTATION
+EFC,"Ellington Financial LLC",FINANCE
+NMM,"Navios Maritime Partners LP",TRANSPORTATION
+BKFS,"Black Knight Financial Services, Inc.",TECHNOLOGY
+AER,"Aercap Holdings N.V.",TECHNOLOGY
+CAI,"CAI International, Inc.",TECHNOLOGY
+ANTM,"Anthem, Inc.",HEALTH CARE
+GMED,"Globus Medical, Inc.",HEALTH CARE
+ONDK,"On Deck Capital, Inc.",FINANCE
+BMA,"Macro Bank Inc.",FINANCE
+GNRT,"Gener8 Maritime, Inc.",TRANSPORTATION
+ERA,"Era Group, Inc.",TRANSPORTATION
+HPQ,"Hewlett-Packard Company",TECHNOLOGY
+GSL,"Global Ship Lease, Inc.",TRANSPORTATION
+PANW,"Palo Alto Networks, Inc.",TECHNOLOGY
+GIMO,"Gigamon Inc.",TECHNOLOGY
+MKL,"Markel Corporation",FINANCE
+CRM,"Salesforce.com Inc",TECHNOLOGY
+IHS,"IHS Inc.",TECHNOLOGY
+BAP,"Credicorp Ltd.",FINANCE
+SYF,"Synchrony Financial",FINANCE
+HRTG,"Heritage Insurance Holdings, Inc.",FINANCE
+OCN,"Ocwen Financial Corporation",FINANCE
+DCM,"NTT DOCOMO, Inc",TECHNOLOGY
+RY,"Royal Bank Of Canada",FINANCE
+IPHI,"Inphi Corporation",TECHNOLOGY
+MCK,"McKesson Corporation",HEALTH CARE
+AV,"Avago Technologies Limited"
+SLTB,"Scorpio Bulkers Inc.",TRANSPORTATION
+CGI,"Celadon Group, Inc.",TRANSPORTATION
+WK,"Workiva Inc.",TECHNOLOGY
+FXCM,"FXCM Inc.",FINANCE
+FBC,"Flagstar Bancorp, Inc.",FINANCE
+ASX,"Advanced Semiconductor Engineering, Inc.",TECHNOLOGY
+RMD,"ResMed Inc.",HEALTH CARE
+ISG,"ING Group, N.V.",FINANCE
+GWR,"Genesee & Wyoming, Inc.",TRANSPORTATION
+SRG,"Seritage Growth Properties",FINANCE
+RST,"Rosetta Stone",TECHNOLOGY
+KWN,"Kennedy-Wilson Holdings Inc.",FINANCE
+FAF,"First American Corporation (The)",FINANCE
+GHM,"Graham Corporation",TECHNOLOGY
+SB,"SBA Communications Corporation"
+AGO,"Assured Guaranty Ltd.",FINANCE
+BGCA,"BGC Partners, Inc.",FINANCE
+MHFI,"McGraw Hill Financial, Inc.",FINANCE
+TDOC,"Teladoc, Inc.",HEALTH CARE
+MWR,"Morgan Stanley",FINANCE
+DTK,"Deutsche Bank AG",FINANCE
+MOH,"Molina Healthcare Inc",HEALTH CARE
+CKH,"SEACOR Holdings, Inc.",TRANSPORTATION
+OPY,"Oppenheimer Holdings, Inc.",FINANCE
+STC,"Stewart Information Services Corporation",FINANCE
+CUBS,"Customers Bancorp, Inc",FINANCE
+MIXT,"MiX Telematics Limited",TECHNOLOGY
+ORCL,"Oracle Corporation",TECHNOLOGY
+ESNT,"Essent Group Ltd.",FINANCE
+PYS,"PPlus Trust",FINANCE
+SFL,"Ship Finance International Limited",TRANSPORTATION
+LDOS,"Leidos Holdings, Inc.",TECHNOLOGY
+VRX,"Valeant Pharmaceuticals International, Inc.",HEALTH CARE
+PUK,"Prudential Public Limited Company",FINANCE
+HCJ,"HCI Group, Inc.",FINANCE
+PRH,"Prudential Financial, Inc.",FINANCE
+VEEV,"Veeva Systems Inc.",TECHNOLOGY
+KMPR,"Kemper Corporation",FINANCE
+QIHU,"Qihoo 360 Technology Co. Ltd.",TECHNOLOGY
+FAC,"First Acceptance Corporation",FINANCE
+STE,"STERIS Corporation",HEALTH CARE
+MDLY,"Medley Management Inc.",FINANCE
+MET,"MetLife, Inc.",FINANCE
+ZPIN,"Zhaopin Limited",TECHNOLOGY
+AFSD,"Aflac Incorporated",FINANCE
+BCH,"Banco De Chile",FINANCE
+RENN,"Renren Inc.",TECHNOLOGY
+CVT,"CVENT, INC.",TECHNOLOGY
+TK,"Teekay Corporation",TRANSPORTATION
+LLY,"Eli Lilly and Company",HEALTH CARE
+JMPB,"JMP Group LLC",FINANCE
+MMC,"Marsh & McLennan Companies, Inc.",FINANCE
+BXLT,"Baxalta Incorporated",HEALTH CARE
+AHH,"Armada Hoffler Properties, Inc.",FINANCE
+GTY,"Getty Realty Corporation",FINANCE
+RUBI,"The Rubicon Project, Inc.",TECHNOLOGY
+CBG,"CBRE Group, Inc.",FINANCE
+CTLT,"Catalent, Inc.",HEALTH CARE
+BLX,"Banco Latinoamericano de Comercio Exterior, S.A.",FINANCE
+SNN,"Smith & Nephew SNATS, Inc.",HEALTH CARE
+AXP,"American Express Company",FINANCE,DOW
+STM,"STMicroelectronics N.V.",TECHNOLOGY
+SBNB,"Scorpio Tankers Inc.",TRANSPORTATION
+PNX,"Phoenix Companies, Inc. (The)",FINANCE
+PKE,"Park Electrochemical Corporation",TECHNOLOGY
+EW,"Edwards Lifesciences Corporation",HEALTH CARE
+AVV,"Aviva plc",FINANCE
+NOK,"Nokia Corporation",TECHNOLOGY
+GEB,"General Electric Company",FINANCE
+GJT,"Synthetic Fixed-Income Securities, Inc.",FINANCE
+TSM,"Taiwan Semiconductor Manufacturing Company Ltd.",TECHNOLOGY
+RAX,"Rackspace Hosting, Inc",TECHNOLOGY
+NEWR,"New Relic, Inc.",TECHNOLOGY
+THC,"Tenet Healthcare Corporation",HEALTH CARE
+LEJU,"Leju Holdings Limited",FINANCE
+TNP,"Tsakos Energy Navigation Ltd",TRANSPORTATION
+AEG,"Aegon NV",FINANCE
+ASR,"Grupo Aeroportuario del Sureste, S.A. de C.V.",TRANSPORTATION
+BMY,"Bristol-Myers Squibb Company",HEALTH CARE
+QTWO,"Q2 Holdings, Inc.",TECHNOLOGY
+N,"NetApp, Inc."
+SALT,"Scorpio Bulkers Inc.",TRANSPORTATION
+WAC,"Walter Investment Management Corp.",FINANCE
+JNS,"Janus Capital Group, Inc",FINANCE
+UAM,"Universal American Corp.",HEALTH CARE
+BITA,"Bitauto Holdings Limited",TECHNOLOGY
+MCRN,"Milacron Holdings Corp.",TECHNOLOGY
+MTU,"Mitsubishi UFJ Financial Group Inc",FINANCE
+UHS,"Universal Health Services, Inc.",HEALTH CARE
+HSEA,"HSBC Holdings plc",FINANCE
+HIVE,"Aerohive Networks, Inc.",TECHNOLOGY
+CDI,"CDI Corporation",TECHNOLOGY
+BRO,"Brown & Brown, Inc.",FINANCE
+KSU,"Kansas City Southern",TRANSPORTATION
+WBS,"Webster Financial Corporation",FINANCE
+FGL,"Fidelity and Guaranty Life",FINANCE
+MFG,"Mizuho Financial Group, Inc.",FINANCE
+KCC,"Lehman ABS Corporation",FINANCE
+NVS,"Novartis AG",HEALTH CARE
+OOMA,"Ooma, Inc.",TECHNOLOGY
+MWW,"Monster Worldwide, Inc.",TECHNOLOGY
+ISF,"ING Group, N.V.",FINANCE
+ITG,"Investment Technology Group, Inc.",FINANCE
+BFR,"BBVA Banco Frances S.A.",FINANCE
+IVC,"Invacare Corporation",HEALTH CARE
+IMN,"Imation Corporation",TECHNOLOGY
+PIY,"Merrill Lynch Depositor, Inc.",FINANCE
+CLS,"Celestica, Inc.",TECHNOLOGY
+VLY,"Valley National Bancorp",FINANCE
+OB,"OneBeacon Insurance Group, Ltd.",FINANCE
+ING,"ING Group, N.V.",FINANCE
+JBR,"Select Asset Inc.",FINANCE
+AMP,"AMERIPRISE FINANCIAL SERVICES, INC.",FINANCE
+BCRH,"Blue Capital Reinsurance Holdings Ltd.",FINANCE
+APO,"Apollo Global Management, LLC",FINANCE
+RM,"ResMed Inc.",HEALTH CARE
+WCG,"WellCare Health Plans, Inc.",HEALTH CARE
+MMI,"Marcus & Millichap, Inc.",FINANCE
+JMP,"JMP Group LLC",FINANCE
+KYO,"Kyocera Corporation",TECHNOLOGY
+NFJ,"AllianzGI NFJ Dividend, Interest & Premium Strategy Fund",FINANCE
+FDX,"FedEx Corporation",TRANSPORTATION
+BNS,"Bank of Nova Scotia (The)",FINANCE
+DHT,"DHT Holdings, Inc.",TRANSPORTATION
+RBS,"Royal Bank Scotland plc (The)",FINANCE
+MTG,"MGIC Investment Corporation",FINANCE
+IL,"Illumina, Inc."
+BOCA,"Banc of California, Inc.",FINANCE
+UNM,"Unum Group",FINANCE
+GSH,"Guangshen Railway Company Limited",TRANSPORTATION
+TNC,"Tennant Company",TECHNOLOGY
+TZF,"Bear Stearns Depositor, Inc.",FINANCE
+MRK,"Merck & Company, Inc.",HEALTH CARE,DOW
+MCY,"Mercury General Corporation",FINANCE
+PAYC,"Paycom Software, Inc.",TECHNOLOGY
+BHLB,"Berkshire Hills Bancorp, Inc.",FINANCE
+BCR,"Blue Capital Reinsurance Holdings Ltd.",FINANCE
+ECOM,"ChannelAdvisor Corporation",TECHNOLOGY
+FOR,"Forestar Group Inc",FINANCE
+CS,"Cisco Systems, Inc.",DOW
+GOV,"Government Properties Income Trust",FINANCE
+CAH,"Cardinal Health, Inc.",HEALTH CARE
+WD,"Western Digital Corporation"
+AUO,"AU Optronics Corp",TECHNOLOGY
+HTH,"Hilltop Holdings Inc.",FINANCE
+HDB,"HDFC Bank Limited",FINANCE
+JNPR,"Juniper Networks, Inc.",TECHNOLOGY
+DKT,"Deutsch Bk Contingent Cap Tr V",FINANCE
+SF,"Stifel Financial Corporation",FINANCE
+AXS,"Axis Capital Holdings Limited",FINANCE
+USDP,"USD Partners LP",TRANSPORTATION
+TCB,"TCF Financial Corporation",FINANCE
+GJV,"Synthetic Fixed-Income Securities, Inc.",FINANCE
+OPWR,"Opower, Inc.",TECHNOLOGY
+KTN,"Lehman ABS Corporation",FINANCE
+CNO,"CNO Financial Group, Inc.",FINANCE
+IHC,"Independence Holding Company",FINANCE
+CP,"Copa Holdings, S.A.",TRANSPORTATION
+GTS,"Triple-S Management Corporation",FINANCE
+CIT,"CIT Group Inc (DEL)",FINANCE
+ZEN,"Zendesk, Inc.",TECHNOLOGY
+CBM,"Cambrex Corporation",HEALTH CARE
+WFC,"Wells Fargo & Company",FINANCE
+FBP,"First BanCorp.",FINANCE
+GS,"GlaxoSmithKline PLC",HEALTH CARE
+MRIN,"Marin Software Incorporated",TECHNOLOGY
+UAL,"United Continental Holdings, Inc.",TRANSPORTATION
+TGH,"Textainer Group Holdings Limited",TECHNOLOGY
+FMD,"First Marblehead Corporation (The)",FINANCE
+BLW,"Citigroup Inc.",FINANCE
+UMC,"United Microelectronics Corporation",TECHNOLOGY
+SGM,"Stonegate Mortgage Corporation",FINANCE
+ITUB,"Itau Unibanco Banco Holding SA",FINANCE
+NSAM,"NorthStar Asset Management Group, Inc.",FINANCE
+AFG,"American Financial Group, Inc.",FINANCE
+DB,"Deutsche Bank AG",FINANCE
+BNK,"C1 Financial, Inc.",FINANCE
+CFG,"Citizens Financial Group, Inc.",FINANCE
+GZT,"Gazit-Globe Ltd.",FINANCE
+IBN,"ICICI Bank Limited",FINANCE
+ISP,"ING Group, N.V.",FINANCE
+WRB,"W.R. Berkley Corporation",FINANCE
+ZBH,"Zimmer Biomet Holdings, Inc.",HEALTH CARE
+HMN,"Horace Mann Educators Corporation",FINANCE
+MODN,"Model N, Inc.",TECHNOLOGY
+CMN,"Cantel Medical Corp.",HEALTH CARE
+BOH,"Bank of Hawaii Corporation",FINANCE
+UPS,"United Parcel Service, Inc.",TRANSPORTATION
+SEM,"Select Medical Holdings Corporation",HEALTH CARE
+AHL,"Aspen Insurance Holdings Limited",FINANCE
+LH,"Laboratory Corporation of America Holdings",HEALTH CARE
+TXTR,"Textura Corporation",TECHNOLOGY
+XON,"Intrexon Corporation",HEALTH CARE
+AIW,"Arlington Asset Investment Corp",FINANCE
+PVTD,"PrivateBancorp, Inc.",FINANCE
+C,"C.H. Robinson Worldwide, Inc."
+CSU,"Capital Senior Living Corporation",HEALTH CARE
+DVA,"DaVita healthCare Partners Inc.",HEALTH CARE
+PRA,"ProAssurance Corporation",FINANCE
+OZM,"Och-Ziff Capital Management Group LLC",FINANCE
+TFX,"Teleflex Incorporated",HEALTH CARE
+BCS,"Barclays PLC",FINANCE
+AI,"Arlington Asset Investment Corp",FINANCE
+NVO,"Novo Nordisk A/S",HEALTH CARE
+WDAY,"Workday, Inc.",TECHNOLOGY
+PGR,"Progressive Corporation (The)",FINANCE
+GJO,"SYNTHETIC FIXED INCOME SECURITIES INC",FINANCE
+EVER,"EverBank Financial Corp.",FINANCE
+EURN,"Euronav NV",TRANSPORTATION
+CSC,"Cisco Systems, Inc.",DOW
+SC,"The Charles Schwab Corporation",FINANCE
+GEH,"General Electric Capital Corporation",FINANCE
+SRT,"StarTek, Inc.",TECHNOLOGY
+ETN,"Eaton Corporation, PLC",TECHNOLOGY
+GYB,"CABCO Series 2004-101 Trust",FINANCE
+AEK,"Aegon NV",FINANCE
+CIVI,"Civitas Solutions, Inc.",HEALTH CARE
+DST,"DST Systems, Inc.",TECHNOLOGY
+RESI,"Altisource Residential Corporation",FINANCE
+HYH,"Halyard Health, Inc.",HEALTH CARE
+SWFT,"Swift Transportation Company",TRANSPORTATION
+BSAC,"Banco Santander Chile",FINANCE
+RGA,"Reinsurance Group of America, Incorporated",FINANCE
+LUX,"Luxottica Group, S.p.A.",HEALTH CARE
+BBVA,"Banco Bilbao Viscaya Argentaria S.A.",FINANCE
+OAK,"Oaktree Capital Group, LLC",FINANCE
+STT,"State Street Corporation",FINANCE
+CVS,"CVS Health Corporation",HEALTH CARE
+SGZA,"Selective Insurance Group, Inc.",FINANCE
+LM,"Liberty Media Corporation"
+ZNH,"China Southern Airlines Company Limited",TRANSPORTATION
+IVZ,"Invesco Plc",FINANCE
+GDOT,"Green Dot Corporation",FINANCE
+BMO,"Bank Of Montreal",FINANCE
+RDN,"Radian Group Inc.",FINANCE
+ANET,"Arista Networks, Inc.",TECHNOLOGY
+SPA,"Sparton Corporation",TECHNOLOGY
+SAN,"Banco Santander, S.A.",FINANCE
+SSW,"Seaspan Corporation",TRANSPORTATION
+THGA,"The Hanover Insurance Group, Inc.",FINANCE
+GJH,"SYNTHETIC FIXED INCOME SECURITIES INC",FINANCE
+CIB,"BanColombia S.A.",FINANCE
+BSBR,"Banco Santander Brasil SA",FINANCE
+JBL,"Jabil Circuit, Inc.",TECHNOLOGY
+AIG,"American International Group, Inc.",FINANCE
+LFC,"China Life Insurance Company Limited",FINANCE
+RJD,"Raymond James Financial, Inc.",FINANCE
+MWO,"Morgan Stanley",FINANCE
+NPTN,"NeoPhotonics Corporation",TECHNOLOGY
+KAI,"Kadant Inc",TECHNOLOGY
+OMC,"Omnicom Group Inc.",TECHNOLOGY
+NSP,"Insperity, Inc.",TECHNOLOGY
+FLTX,"Fleetmatics Group PLC",TECHNOLOGY
+PJS,"Preferred Plus Trust Ser QWS 2 Tr Ctf",FINANCE
+AFW,"American Financial Group, Inc.",FINANCE
+HAE,"Haemonetics Corporation",HEALTH CARE
+IM,"Imprivata, Inc.",TECHNOLOGY
+RF,"Regions Financial Corporation",FINANCE
+ENVA,"Enova International, Inc.",FINANCE
+GYC,"Corporate Asset Backed Corp CABCO",FINANCE
+DXB,"Deutsche Bank AG",FINANCE
+GNW,"Genworth Financial Inc",FINANCE
+HCA,"HCA Holdings, Inc.",HEALTH CARE
+COO,"Cooper Companies, Inc. (The)",HEALTH CARE
+Q,"Liberty Interactive Corporation"
+WIT,"Wipro Limited",TECHNOLOGY
+AIZ,"Assurant, Inc.",FINANCE
+BBDO,"Banco Bradesco Sa",FINANCE
+CI,"Citizens, Inc.",FINANCE
+ASB,"Associated Banc-Corp",FINANCE
+AVH,"Avianca Holdings S.A.",TRANSPORTATION
+NUS,"Nu Skin Enterprises, Inc.",HEALTH CARE
+LAZ,"Lazard Ltd.",FINANCE
+GI,"Gilead Sciences, Inc."
+TDC,"Teradata Corporation",TECHNOLOGY
+BCO,"Brink&#39;s Company (The)",TRANSPORTATION
+MCO,"Moody&#39;s Corporation",FINANCE
+CSLT,"Castlight Health, inc.",TECHNOLOGY
+FNB,"F.N.B. Corporation",FINANCE
+AGM,"Federal Agricultural Mortgage Corporation",FINANCE
+PNR,"Pentair plc.",TECHNOLOGY
+PFSI,"PennyMac Financial Services, Inc.",FINANCE
+GCAP,"GAIN Capital Holdings, Inc.",FINANCE
+AWH,"Allied World Assurance Company Holdings, AG",FINANCE
+EVR,"Everi Holdings Inc.",FINANCE
+JGW,"J.G. Wentworth Company (The)",FINANCE
+PRI,"Primerica, Inc.",FINANCE
+AZN,"Astrazeneca PLC",HEALTH CARE
+JNJ,"Johnson & Johnson",HEALTH CARE,DOW
+UNP,"Union Pacific Corporation",TRANSPORTATION
+RJF,"Raymond James Financial, Inc.",FINANCE
+PN,"Phoenix Companies, Inc. (The)",FINANCE
+PZN,"Pzena Investment Management Inc",FINANCE
+RE,"Regeneron Pharmaceuticals, Inc."
+MLP,"Maui Land & Pineapple Company, Inc.",FINANCE
+PRU,"Prudential Financial, Inc.",FINANCE
+TSL,"Tesla Motors, Inc."
+EVHC,"Envision Healthcare Holdings, Inc.",HEALTH CARE
+SNX,"Synnex Corporation",TECHNOLOGY
+VAC,"Marriot Vacations Worldwide Corporation",FINANCE
+TRV,"The Travelers Companies, Inc.",FINANCE,DOW
+KFH,"KKR Financial Holdings LLC",FINANCE
+SHG,"Shinhan Financial Group Co Ltd",FINANCE
+AJG,"Arthur J. Gallagher & Co.",FINANCE
+YGE,"Yingli Green Energy Holding Company Limited",TECHNOLOGY
+GWRE,"Guidewire Software, Inc.",TECHNOLOGY
+EMG,"Emergent Capital, Inc.",FINANCE
+XKE,"Lehman ABS Corporation",FINANCE
+NMR,"Nomura Holdings Inc ADR",FINANCE
+RBS,"Royal Bank Scotland plc (The)",FINANCE
+AIC,"Arlington Asset Investment Corp",FINANCE
+RMAX,"RE/MAX Holdings, Inc.",FINANCE
+HGH,"Hartford Financial Services Group, Inc. (The)",FINANCE
+NVGS,"Navigator Holdings Ltd.",TRANSPORTATION
+CMCM,"Cheetah Mobile Inc.",TECHNOLOGY
+VMW,"Vmware, Inc.",TECHNOLOGY
+AEH,"Aegon NV",FINANCE
+CEA,"China Eastern Airlines Corporation Ltd.",TRANSPORTATION
+MSK,"Morgan Stanley",FINANCE
+CNC,"Centene Corporation",HEALTH CARE
+HLI,"Houlihan Lokey, Inc.",FINANCE
+COF,"Capital One Financial Corporation",FINANCE
+KTH,"Lehman ABS Corporation",FINANCE
+CNS,"Cohn & Steers Inc",FINANCE
+ICE,"Intercontinental Exchange Inc.",FINANCE
+YDKN,"Yadkin Financial Corporation",FINANCE
+DAC,"Danaos Corporation",TRANSPORTATION
+MFC,"Manulife Financial Corp",FINANCE
+AET,"Aetna Inc.",HEALTH CARE
+NYCB,"New York Community Bancorp, Inc.",FINANCE
+CMRE,"Costamare Inc.",TRANSPORTATION
+MHNC,"Maiden Holdings, Ltd.",FINANCE
+TRNO,"Terreno Realty Corporation",FINANCE
+SNY,"Sanofi",HEALTH CARE
+IPG,"Interpublic Group of Companies, Inc. (The)",TECHNOLOGY
+INFY,"Infosys Limited",TECHNOLOGY
+JBN,"Select Asset Inc.",FINANCE
+STI,"SunTrust Banks, Inc.",FINANCE
+ENZ,"Enzo Biochem, Inc.",HEALTH CARE
+FIG,"Fortress Investment Group LLC",FINANCE
+BPY,"Brookfield Property Partners L.P.",FINANCE
+GWB,"Great Western Bancorp, Inc.",FINANCE
+JBK,"Lehman ABS Corporation",FINANCE
+KW,"Kennedy-Wilson Holdings Inc.",FINANCE
+BANC,"Banc of California, Inc.",FINANCE
+XTLY,"Xactly Corporation",TECHNOLOGY
+FNF,"Fidelity National Financial, Inc.",FINANCE
+KFY,"Korn/Ferry International",TECHNOLOGY
+DQ,"DAQO New Energy Corp.",TECHNOLOGY
+FNFV,"Fidelity National Financial, Inc.",FINANCE
+DPLO,"Diplomat Pharmacy, Inc.",HEALTH CARE
+DDD,"3D Systems Corporation",TECHNOLOGY
+JPM,"J P Morgan Chase & Co",FINANCE
+ARES,"Ares Management L.P.",FINANCE
+TMH,"Team Health Holdings, Inc.",TECHNOLOGY
+GOL,"Gol Linhas Aereas Inteligentes S.A.",TRANSPORTATION
+TEVA,"Teva Pharmaceutical Industries Limited",HEALTH CARE
+Y,"Yahoo! Inc."
+KTP,"Lehman ABS Corporation",FINANCE
+INVN,"InvenSense, Inc.",TECHNOLOGY
+AMBR,"Amber Road, Inc.",TECHNOLOGY
+ATHM,"Autohome Inc.",TECHNOLOGY
+TAL,"TAL International Group, Inc.",TECHNOLOGY
+SBNA,"Scorpio Tankers Inc.",TRANSPORTATION
+NOW,"ServiceNow, Inc.",TECHNOLOGY
+PNC,"PNC Financial Services Group, Inc. (The)",FINANCE
+EFX,"Equifax, Inc.",FINANCE
+CMA,"Comerica Incorporated",FINANCE
+PFE,"Pfizer, Inc.",HEALTH CARE,DOW
+PJH,"Prudential Financial, Inc.",FINANCE
+KMPA,"Kemper Corporation",FINANCE
+HHS,"Harte-Hanks, Inc.",TECHNOLOGY
+RNG,"Ringcentral, Inc.",TECHNOLOGY
+SSTK,"Shutterstock, Inc.",TECHNOLOGY
+BBD,"Banco Bradesco Sa",FINANCE
+TYL,"Tyler Technologies, Inc.",TECHNOLOGY
+BLK,"BlackRock, Inc.",FINANCE
+FII,"Federated Investors, Inc.",FINANCE
+EXAM,"ExamWorks Group, Inc.",HEALTH CARE
+AFM,"Affiliated Managers Group, Inc.",FINANCE
+OMAM,"OM Asset Management plc",FINANCE
+STNG,"Scorpio Tankers Inc.",TRANSPORTATION
+TBI,"TrueBlue, Inc.",TECHNOLOGY
+NOAH,"Noah Holdings Ltd.",FINANCE
+USPH,"U.S. Physical Therapy, Inc.",HEALTH CARE
+KFS,"Kingsway Financial Services, Inc.",FINANCE
+NVRO,"Nevro Corp.",HEALTH CARE
+BKD,"Brookdale Senior Living Inc.",HEALTH CARE
+DFT,"Dupont Fabros Technology, Inc.",FINANCE
+BKU,"BankUnited, Inc.",FINANCE
+LPG,"Dorian LPG Ltd.",TRANSPORTATION
+BK,"Black Knight Financial Services, Inc.",TECHNOLOGY
+SSNI,"Silver Spring Networks, Inc.",TECHNOLOGY
+SAIC,"SCIENCE APPLICATIONS INTERNATIONAL CORPORATION",TECHNOLOGY
+RHI,"Robert Half International Inc.",TECHNOLOGY
+DSXN,"Diana Shipping inc.",TRANSPORTATION
+GSF,"Goldman Sachs Group, Inc. (The)",FINANCE
+AL,"Alexion Pharmaceuticals, Inc."
+NEFF,"Neff Corporation",TECHNOLOGY
+NBHC,"National Bank Holdings Corporation",FINANCE
+KKR,"KKR & Co. L.P.",FINANCE
+LFL,"LATAM Airlines Group S.A.",TRANSPORTATION
+NSM,"Nationstar Mortgage Holdings Inc.",FINANCE
+OMI,"Owens & Minor, Inc.",HEALTH CARE
+VAR,"Varian Medical Systems, Inc.",HEALTH CARE
+OFG,"OFG Bancorp",FINANCE
+FHN,"First Horizon National Corporation",FINANCE
+CBU,"Community Bank System, Inc.",FINANCE
+TD,"Teladoc, Inc.",HEALTH CARE
+LNKD,"LinkedIn Corporation",TECHNOLOGY
+LADR,"Ladder Capital Corp",FINANCE
+QTM,"Quantum Corporation",TECHNOLOGY
+MAN,"ManpowerGroup",TECHNOLOGY
+MWG,"Morgan Stanley",FINANCE
+PFK,"Prudential Financial, Inc.",FINANCE
+APAM,"Artisan Partners Asset Management Inc.",FINANCE
+CO,"Costco Wholesale Corporation"
+UVE,"UNIVERSAL INSURANCE HOLDINGS INC",FINANCE
+PRGO,"Perrigo Company",HEALTH CARE
+PHH,"PHH Corp",FINANCE
+EV,"Evertec, Inc.",TECHNOLOGY
+BDX,"Becton, Dickinson and Company",HEALTH CARE
+AFSS,"AmTrust Financial Services, Inc.",FINANCE
+CW,"Curtiss-Wright Corporation",TECHNOLOGY
+KNX,"Knight Transportation, Inc.",TRANSPORTATION
+CYH,"Community Health Systems, Inc.",HEALTH CARE
+JKS,"JinkoSolar Holding Company Limited",TECHNOLOGY
+AFL,"Aflac Incorporated",FINANCE
+CNA,"CNA Financial Corporation",FINANCE
+MS,"Microsoft Corporation",DOW
+RZA,"Reinsurance Group of America, Incorporated",FINANCE
+CRY,"CryoLife, Inc.",HEALTH CARE
+NAO,"Nordic American Offshore Ltd",TRANSPORTATION
+EBS,"Emergent Biosolutions, Inc.",HEALTH CARE
+CCM,"Concord Medical Services Holdings Limited",HEALTH CARE
+PFH,"CABCO Series 2004-101 Trust",FINANCE
+SUNE,"SunEdison, Inc.",TECHNOLOGY
+NSC,"Norfolk Souther Corporation",TRANSPORTATION
+ZBK,"Zions Bancorporation",FINANCE
+CTS,"Cognizant Technology Solutions Corporation"
+NPD,"China Nepstar Chain Drugstore Ltd",HEALTH CARE
+TARO,"Taro Pharmaceutical Industries Ltd.",HEALTH CARE
+SMFG,"Sumitomo Mitsui Financial Group Inc",FINANCE
+FMS,"Fresenius Medical Care Corporation",HEALTH CARE
+ADPT,"Adeptus Health Inc.",HEALTH CARE
+TRC,"Tejon Ranch Co",FINANCE
+MC,"McDonald&#39;s Corporation",DOW
+AEL,"American Equity Investment Life Holding Company",FINANCE
+ITW,"Illinois Tool Works Inc.",TECHNOLOGY
+SFE,"Safeguard Scientifics, Inc.",FINANCE
+FFG,"FBL Financial Group, Inc.",FINANCE
+AMTD,"TD Ameritrade Holding Corporation",FINANCE
+HJV,"MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14",FINANCE
+WBK,"Westpac Banking Corporation",FINANCE
+BAX,"Baxter International Inc.",HEALTH CARE
+CVG,"Convergys Corporation",TECHNOLOGY
+TFG,"Goldman Sachs Group, Inc. (The)",FINANCE
+ELLI,"Ellie Mae, Inc.",TECHNOLOGY
+ATU,"Actuant Corporation",TECHNOLOGY
+TRMR,"Tremor Video, Inc.",TECHNOLOGY
+DLB,"Dolby Laboratories",TECHNOLOGY
+YUME,"YuMe, Inc.",TECHNOLOGY
+SOL,"Renesola Ltd.",TECHNOLOGY
+WHG,"Westwood Holdings Group Inc",FINANCE
+DWRE,"DEMANDWARE, INC.",TECHNOLOGY
+RNR,"RenaissanceRe Holdings Ltd.",FINANCE
+KB,"KB Financial Group Inc",FINANCE
+HIG,"Hartford Financial Services Group, Inc. (The)",FINANCE
+HUM,"Humana Inc.",HEALTH CARE
+UIS,"Unisys Corporation",TECHNOLOGY
+UNH,"UnitedHealth Group Incorporated",HEALTH CARE,DOW
+GEK,"General Electric Capital Corporation",FINANCE
+MHNB,"Maiden Holdings, Ltd.",FINANCE
+NNA,"Navios Maritime Acquisition Corporation",TRANSPORTATION
+UBS,"UBS AG",FINANCE

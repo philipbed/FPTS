@@ -6,4 +6,4 @@ This was a class project designated to increase our familiarity with the Gang of
 	
 We used the MVC pattern to structure our subsystems.
 
-Some tools that were used on the GUI side of things were JavaFX which was mostly put together with the help of SceneBuilder 2.0.
+Some tools that were used on the GUI side of things were JavaFX which was mostly put together with the help of SceneBuilder 2.0. Subversion was used for version control.
